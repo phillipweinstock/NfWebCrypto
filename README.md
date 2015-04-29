@@ -108,7 +108,7 @@ Directory Tour
 
 How to Build
 ------------
-The following has been verified on Ubunutu 12.04. cmake 2.8 or later is required.
+The following has been verified on Ubuntu 12.04. cmake 2.8 or later is required.
 
 NOTE: The SYSTEM key mentioned above depends in part on a secret build-time key 
 SECRET\_SYSTEM\_KEY that for example purposes is hard-coded in linux_common.cmake.
